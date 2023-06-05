@@ -21,5 +21,3 @@ Servicios desarrollados
  - localhost:9091/api/v1.0.0/auth/create
  - localhost:9091/api/v1.0.0/auth/login
  - localhost:9091/api/v1.0.0/auth/validate?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJtYXJpbyIsImlkIjoxLCJpYXQiOjE2ODU5MDY2NjYsImV4cCI6MTY4NTkxMDI2Nn0.py2iAHpvC_DaYLt5msLiZv7V80oozm43y7gEhqlm5l8
-
-Comparto link de colleccion de postman:
