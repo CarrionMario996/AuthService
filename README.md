@@ -1,5 +1,6 @@
 # AuthService
-Dependencia: Tener levantado los siguientes servicios:
+Dependencia: Tener una base de datos mysql y ejecutar la siguiente setencia:
+create database db_auth;
 
 
 Ejecutar comando para clonar repositorio desde consola git git clone https://github.com/CarrionMario996/AuthService.git
